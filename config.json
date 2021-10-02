@@ -1,0 +1,4 @@
+{
+    "getUserIdByName": "https://api.wotblitz.ru/wotb/account/list/?application_id=cf0c5539f53ac73dea65e54d599f4169&search=",
+    "getUserStatistic": "https://api.wotblitz.ru/wotb/account/info/?application_id=cf0c5539f53ac73dea65e54d599f4169&account_id="
+}
