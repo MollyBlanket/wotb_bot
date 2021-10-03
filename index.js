@@ -34,13 +34,12 @@ bot.on('message', async (message) => {
 
     if (message.content.startsWith(prefix)) {
         try {
-            let command_file =
-                bot.commands.get(command) || bot.commands.get(bot.aliases.get(command));
+            let command_file = bot.commands.get(command) || bot.commands.get(bot.aliases.get(command));
             if (command_file) {
                 return command_file.run(bot, message, args);
             }
         } catch (e) {
-            message.channel.send(e);
+            message.channel.send(e.message);
         }
     }
     if (message.content.toLowerCase() === 'ping') {

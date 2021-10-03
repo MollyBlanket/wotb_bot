@@ -1,4 +1,5 @@
 {
     "getUserIdByName": "https://api.wotblitz.ru/wotb/account/list/?application_id=cf0c5539f53ac73dea65e54d599f4169&search=",
-    "getUserStatistic": "https://api.wotblitz.ru/wotb/account/info/?application_id=cf0c5539f53ac73dea65e54d599f4169&extra=statistics.rating&account_id="
+    "getUserStatistic": "https://api.wotblitz.ru/wotb/account/info/?application_id=cf0c5539f53ac73dea65e54d599f4169&extra=statistics.rating&account_id=",
+    "getTankById": "https://api.wotblitz.ru/wotb/encyclopedia/vehicles/?application_id=cf0c5539f53ac73dea65e54d599f4169&tank_id="
 }

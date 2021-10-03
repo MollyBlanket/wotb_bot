@@ -4,7 +4,8 @@
     "description": "",
     "main": "index.js",
     "scripts": {
-        "start": "ts-node-dev index.js --resolveJsonModule"
+        "start": "ts-node-dev index.js",
+        "test": "ts-node-dev ./commands/test.js --resolveJsonModule"
     },
     "keywords": [],
     "author": "",
