@@ -16,7 +16,7 @@ export class WotBAPI {
         let link: string = `${this.urls.getUserIdByName}${name}`;
         let response = await fetch(link, { method: 'GET' }).then((res) => res.json());
 
-        if (!response.data?.[0]) throw new Error('ERROR_COULD_NOT_FIND_PLAYER');
+        if (!response?.data?.[0]) throw new Error('ERROR_COULD_NOT_FIND_PLAYER');
         let account_id: number = response.data[0].account_id;
         return account_id;
     }
@@ -25,7 +25,7 @@ export class WotBAPI {
         let link: string = `${this.urls.getUserStatistic}${id}`;
         let response = await fetch(link, { method: 'GET' }).then((res) => res.json());
 
-        if (!response.data[id]) throw new Error('ERROR_COULD_NOT_FIND_PLAYER');
+        if (!response?.data[id]) throw new Error('ERROR_COULD_NOT_FIND_PLAYER');
         let statistics: Record<string, Record<string, number>> = response.data[id].statistics;
         return statistics;
     }
