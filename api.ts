@@ -4,8 +4,10 @@ type Vocabulary = Record<string, string>;
 
 export class WotBAPI {
     protected urls: Vocabulary;
-    constructor(apiUrls: Vocabulary) {
+    protected errorsMessages: Vocabulary;
+    constructor(apiUrls: Vocabulary, errorsMessages: Vocabulary) {
         this.urls = apiUrls;
+        this.errorsMessages = errorsMessages;
     }
     async getUserIdByName(name: string) {
         if (typeof name !== 'string') throw new Error('ERROR_ARGUMENT_IS_NOT_STRING');
@@ -40,5 +42,10 @@ export class WotBAPI {
         if (!response.data[id]) throw new Error('ERROR_COULD_NOT_FIND_TANK');
         let tank: Record<string, any> = response.data[id];
         return tank;
+    }
+    async errorResponse(error: Error, msg) {
+        let [name, message] = [error.name, error.message];
+        if (!this.errorsMessages[message]) return msg.channel.send(`${name}: ${message}`);
+        msg.channel.send(this.errorsMessages[message]);
     }
 }

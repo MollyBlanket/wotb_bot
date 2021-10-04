@@ -40,6 +40,7 @@ bot.on('message', async (message) => {
             }
         } catch (e) {
             message.channel.send(e.message);
+            message.channel.send('ошибка нахуй');
         }
     }
     if (message.content.toLowerCase() === 'ping') {

@@ -2,7 +2,9 @@ const users = require('./users.json');
 const fs = require('fs');
 const urls = require('../config.json');
 const { WotBAPI } = require('../api');
-let WotBlitzAPI = new WotBAPI(urls);
+const errors = require('../errorsMessages.json');
+let WotBlitzAPI = new WotBAPI(urls, errors);
+const userStatistic = require('./playerInfo');
 
 module.exports.run = async (bot, message, args) => {
     try {
@@ -23,9 +25,9 @@ module.exports.run = async (bot, message, args) => {
         fs.writeFileSync('./commands/users.json', JSON.stringify(users, null, 4));
 
         message.channel.send('Аккаунт добавлен');
+        userStatistic.run(bot, message, args);
     } catch (e) {
-        message.channel.send(e.name + ': ' + e.message);
-        console.log(e);
+        WotBlitzAPI.errorResponse(e, message);
     }
 };
 

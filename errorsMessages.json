@@ -1,0 +1,7 @@
+{
+    "ERROR_COULD_NOT_FIND_TANK": "Танк не найден",
+    "ERROR_ARGUMENT_IS_NOT_ID": "Аргумент не является айди",
+    "ERROR_COULD_NOT_FIND_PLAYER": "Не удалось найти игрока",
+    "ERROR_STRING_MUST_BE_WITHOUT_SPACES": "Строка должна быть без пробелов",
+    "ERROR_ARGUMENT_IS_NOT_STRING": "Аргумент не явлется строкой"
+}
