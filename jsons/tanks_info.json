@@ -1,0 +1,2322 @@
+{
+    "1": {
+        "name": "Т-34",
+        "nation": "ussr",
+        "tier": 5
+    },
+    "17": {
+        "name": "Pz.Kpfw. IV Ausf. G",
+        "nation": "germany",
+        "tier": 5
+    },
+    "33": {
+        "name": "T14",
+        "nation": "usa",
+        "tier": 5
+    },
+    "49": {
+        "name": "Type 59",
+        "nation": "china",
+        "tier": 8
+    },
+    "113": {
+        "name": "Vindicator Ultramarines",
+        "nation": "other",
+        "tier": 7
+    },
+    "257": {
+        "name": "СУ-85",
+        "nation": "ussr",
+        "tier": 5
+    },
+    "289": {
+        "name": "M3 Stuart",
+        "nation": "usa",
+        "tier": 2
+    },
+    "321": {
+        "name": "D2",
+        "nation": "france",
+        "tier": 3
+    },
+    "337": {
+        "name": "Vickers Medium Mk. II",
+        "nation": "uk",
+        "tier": 2
+    },
+    "353": {
+        "name": "Chi-Ni",
+        "nation": "japan",
+        "tier": 2
+    },
+    "385": {
+        "name": "Progetto M40 mod. 65",
+        "nation": "european",
+        "tier": 10
+    },
+    "513": {
+        "name": "ИС",
+        "nation": "ussr",
+        "tier": 7
+    },
+    "529": {
+        "name": "Tiger I",
+        "nation": "germany",
+        "tier": 7
+    },
+    "593": {
+        "name": "Sherman Firefly",
+        "nation": "uk",
+        "tier": 6
+    },
+    "625": {
+        "name": "Stridsvagn 74A2",
+        "nation": "other",
+        "tier": 6
+    },
+    "641": {
+        "name": "Prototipo Standard B",
+        "nation": "european",
+        "tier": 9
+    },
+    "769": {
+        "name": "БТ-7",
+        "nation": "ussr",
+        "tier": 3
+    },
+    "785": {
+        "name": "Pz.Kpfw. 35 (t)",
+        "nation": "germany",
+        "tier": 2
+    },
+    "801": {
+        "name": "M6",
+        "nation": "usa",
+        "tier": 6
+    },
+    "817": {
+        "name": "WZ-111",
+        "nation": "china",
+        "tier": 8
+    },
+    "849": {
+        "name": "Matilda",
+        "nation": "uk",
+        "tier": 4
+    },
+    "865": {
+        "name": "Type 95 Ha-Go",
+        "nation": "japan",
+        "tier": 1
+    },
+    "881": {
+        "name": "Edelweiss",
+        "nation": "other",
+        "tier": 7
+    },
+    "897": {
+        "name": "P.44 Pantera",
+        "nation": "european",
+        "tier": 8
+    },
+    "1025": {
+        "name": "БТ-2",
+        "nation": "ussr",
+        "tier": 2
+    },
+    "1041": {
+        "name": "StuG III Ausf. G",
+        "nation": "germany",
+        "tier": 5
+    },
+    "1057": {
+        "name": "M4 Sherman",
+        "nation": "usa",
+        "tier": 5
+    },
+    "1073": {
+        "name": "T-34-1",
+        "nation": "china",
+        "tier": 7
+    },
+    "1089": {
+        "name": "B1",
+        "nation": "france",
+        "tier": 4
+    },
+    "1105": {
+        "name": "Cromwell",
+        "nation": "uk",
+        "tier": 6
+    },
+    "1121": {
+        "name": "Type 5 Chi-Ri",
+        "nation": "japan",
+        "tier": 7
+    },
+    "1137": {
+        "name": "Predator Ultramarines",
+        "nation": "other",
+        "tier": 7
+    },
+    "1153": {
+        "name": "P.43 ter",
+        "nation": "european",
+        "tier": 7
+    },
+    "1297": {
+        "name": "Panther I",
+        "nation": "germany",
+        "tier": 7
+    },
+    "1313": {
+        "name": "M4A3E8 Sherman",
+        "nation": "usa",
+        "tier": 6
+    },
+    "1361": {
+        "name": "Churchill Mk. VI",
+        "nation": "uk",
+        "tier": 6
+    },
+    "1377": {
+        "name": "Type 3 Chi-Nu",
+        "nation": "japan",
+        "tier": 5
+    },
+    "1393": {
+        "name": "Nameless",
+        "nation": "other",
+        "tier": 7
+    },
+    "1409": {
+        "name": "P.43 bis",
+        "nation": "european",
+        "tier": 6
+    },
+    "1537": {
+        "name": "Т-28 обр. 1940 г.",
+        "nation": "ussr",
+        "tier": 4
+    },
+    "1553": {
+        "name": "Jagdpanzer IV",
+        "nation": "germany",
+        "tier": 6
+    },
+    "1569": {
+        "name": "T20",
+        "nation": "usa",
+        "tier": 7
+    },
+    "1585": {
+        "name": "T-34-2",
+        "nation": "china",
+        "tier": 8
+    },
+    "1601": {
+        "name": "D1",
+        "nation": "france",
+        "tier": 2
+    },
+    "1617": {
+        "name": "Sherman V",
+        "nation": "uk",
+        "tier": 5
+    },
+    "1633": {
+        "name": "Type 1 Chi-He",
+        "nation": "japan",
+        "tier": 4
+    },
+    "1649": {
+        "name": "Хелсинг",
+        "nation": "other",
+        "tier": 7
+    },
+    "1665": {
+        "name": "Lago",
+        "nation": "european",
+        "tier": 4
+    },
+    "1809": {
+        "name": "Hetzer",
+        "nation": "germany",
+        "tier": 4
+    },
+    "1825": {
+        "name": "M2 Light Tank",
+        "nation": "usa",
+        "tier": 1
+    },
+    "1841": {
+        "name": "WZ-120",
+        "nation": "china",
+        "tier": 9
+    },
+    "1857": {
+        "name": "Bat.-Châtillon 25 t AP",
+        "nation": "france",
+        "tier": 9
+    },
+    "1889": {
+        "name": "Type 4 Chi-To",
+        "nation": "japan",
+        "tier": 6
+    },
+    "1905": {
+        "name": "O-47",
+        "nation": "other",
+        "tier": 8
+    },
+    "1921": {
+        "name": "Strv m/42",
+        "nation": "european",
+        "tier": 5
+    },
+    "2049": {
+        "name": "А-20",
+        "nation": "ussr",
+        "tier": 4
+    },
+    "2065": {
+        "name": "Pz.Kpfw. II",
+        "nation": "germany",
+        "tier": 1
+    },
+    "2097": {
+        "name": "WZ-111 model 1-4",
+        "nation": "china",
+        "tier": 9
+    },
+    "2129": {
+        "name": "Crusader",
+        "nation": "uk",
+        "tier": 5
+    },
+    "2145": {
+        "name": "Type 97 Chi-Ha",
+        "nation": "japan",
+        "tier": 3
+    },
+    "2161": {
+        "name": "WZ 135G FT Пылающий",
+        "nation": "other",
+        "tier": 7
+    },
+    "2177": {
+        "name": "14TP",
+        "nation": "european",
+        "tier": 3
+    },
+    "2305": {
+        "name": "СУ-152",
+        "nation": "ussr",
+        "tier": 7
+    },
+    "2321": {
+        "name": "VK 36.01 (H)",
+        "nation": "germany",
+        "tier": 6
+    },
+    "2353": {
+        "name": "Vickers Mk. E Type B",
+        "nation": "china",
+        "tier": 1
+    },
+    "2369": {
+        "name": "FCM 36 Pak 40",
+        "nation": "france",
+        "tier": 3
+    },
+    "2385": {
+        "name": "Vickers Medium Mk. III",
+        "nation": "uk",
+        "tier": 3
+    },
+    "2401": {
+        "name": "Type 98 Ke-Ni",
+        "nation": "japan",
+        "tier": 3
+    },
+    "2433": {
+        "name": "10TP",
+        "nation": "european",
+        "tier": 2
+    },
+    "2561": {
+        "name": "Т-34-85",
+        "nation": "ussr",
+        "tier": 6
+    },
+    "2577": {
+        "name": "VK 30.01 (H)",
+        "nation": "germany",
+        "tier": 5
+    },
+    "2593": {
+        "name": "T30",
+        "nation": "usa",
+        "tier": 9
+    },
+    "2609": {
+        "name": "Type 64",
+        "nation": "china",
+        "tier": 6
+    },
+    "2625": {
+        "name": "ARL 44",
+        "nation": "france",
+        "tier": 6
+    },
+    "2657": {
+        "name": "STA-1",
+        "nation": "japan",
+        "tier": 8
+    },
+    "2689": {
+        "name": "Vickers Mk. F",
+        "nation": "european",
+        "tier": 1
+    },
+    "2817": {
+        "name": "КВ-1С",
+        "nation": "ussr",
+        "tier": 6
+    },
+    "2849": {
+        "name": "T34",
+        "nation": "usa",
+        "tier": 8
+    },
+    "2865": {
+        "name": "WZ-110",
+        "nation": "china",
+        "tier": 8
+    },
+    "2881": {
+        "name": "AMX 40",
+        "nation": "france",
+        "tier": 4
+    },
+    "2897": {
+        "name": "Churchill I",
+        "nation": "uk",
+        "tier": 5
+    },
+    "2913": {
+        "name": "Type 5 Ke-Ho",
+        "nation": "japan",
+        "tier": 4
+    },
+    "2945": {
+        "name": "Progetto M35 mod. 46",
+        "nation": "european",
+        "tier": 8
+    },
+    "3073": {
+        "name": "Т-46",
+        "nation": "ussr",
+        "tier": 3
+    },
+    "3105": {
+        "name": "M3 Lee",
+        "nation": "usa",
+        "tier": 4
+    },
+    "3121": {
+        "name": "M5A1 Stuart",
+        "nation": "china",
+        "tier": 4
+    },
+    "3137": {
+        "name": "AMX 50 100",
+        "nation": "france",
+        "tier": 8
+    },
+    "3153": {
+        "name": "Black Prince",
+        "nation": "uk",
+        "tier": 7
+    },
+    "3201": {
+        "name": "50TP prototyp",
+        "nation": "european",
+        "tier": 9
+    },
+    "3345": {
+        "name": "Pz.Kpfw. 38 (t)",
+        "nation": "germany",
+        "tier": 3
+    },
+    "3361": {
+        "name": "T1 Heavy Tank",
+        "nation": "usa",
+        "tier": 5
+    },
+    "3425": {
+        "name": "Type 61",
+        "nation": "japan",
+        "tier": 9
+    },
+    "3457": {
+        "name": "Emil I",
+        "nation": "european",
+        "tier": 8
+    },
+    "3585": {
+        "name": "СУ-100",
+        "nation": "ussr",
+        "tier": 6
+    },
+    "3601": {
+        "name": "Panzerjäger I",
+        "nation": "germany",
+        "tier": 2
+    },
+    "3633": {
+        "name": "IS-2",
+        "nation": "china",
+        "tier": 7
+    },
+    "3649": {
+        "name": "Bat.-Châtillon 25 t",
+        "nation": "france",
+        "tier": 10
+    },
+    "3681": {
+        "name": "STB-1",
+        "nation": "japan",
+        "tier": 10
+    },
+    "3697": {
+        "name": "Lupus",
+        "nation": "other",
+        "tier": 7
+    },
+    "3713": {
+        "name": "Strv 74",
+        "nation": "european",
+        "tier": 6
+    },
+    "3857": {
+        "name": "Jagdpanther",
+        "nation": "germany",
+        "tier": 7
+    },
+    "3873": {
+        "name": "T29",
+        "nation": "usa",
+        "tier": 7
+    },
+    "3905": {
+        "name": "AMX 50 120",
+        "nation": "france",
+        "tier": 9
+    },
+    "3921": {
+        "name": "Caernarvon",
+        "nation": "uk",
+        "tier": 8
+    },
+    "3937": {
+        "name": "Ho-Ri Type III",
+        "nation": "japan",
+        "tier": 10
+    },
+    "3953": {
+        "name": "T 55A",
+        "nation": "other",
+        "tier": 9
+    },
+    "3969": {
+        "name": "Leo",
+        "nation": "european",
+        "tier": 7
+    },
+    "4113": {
+        "name": "VK 30.02 (D)",
+        "nation": "germany",
+        "tier": 7
+    },
+    "4145": {
+        "name": "WZ-121",
+        "nation": "china",
+        "tier": 10
+    },
+    "4193": {
+        "name": "Ho-Ri Type II",
+        "nation": "japan",
+        "tier": 9
+    },
+    "4225": {
+        "name": "Emil II",
+        "nation": "european",
+        "tier": 9
+    },
+    "4353": {
+        "name": "Т-44",
+        "nation": "ussr",
+        "tier": 8
+    },
+    "4369": {
+        "name": "Pz.Kpfw. III",
+        "nation": "germany",
+        "tier": 3
+    },
+    "4385": {
+        "name": "T32",
+        "nation": "usa",
+        "tier": 8
+    },
+    "4401": {
+        "name": "Type 2597 Chi-Ha",
+        "nation": "china",
+        "tier": 3
+    },
+    "4417": {
+        "name": "AMX M4 mle. 54",
+        "nation": "france",
+        "tier": 10
+    },
+    "4433": {
+        "name": "Conqueror",
+        "nation": "uk",
+        "tier": 9
+    },
+    "4449": {
+        "name": "IS-2 Pravda SP",
+        "nation": "japan",
+        "tier": 7
+    },
+    "4465": {
+        "name": "Hafen",
+        "nation": "other",
+        "tier": 7
+    },
+    "4481": {
+        "name": "Kranvagn",
+        "nation": "european",
+        "tier": 10
+    },
+    "4609": {
+        "name": "Т-26",
+        "nation": "ussr",
+        "tier": 1
+    },
+    "4657": {
+        "name": "Type T-34",
+        "nation": "china",
+        "tier": 5
+    },
+    "4689": {
+        "name": "Churchill VII",
+        "nation": "uk",
+        "tier": 6
+    },
+    "4705": {
+        "name": "Firefly Saunders SP",
+        "nation": "japan",
+        "tier": 6
+    },
+    "4721": {
+        "name": "Могильщик",
+        "nation": "other",
+        "tier": 7
+    },
+    "4737": {
+        "name": "EMIL 1951",
+        "nation": "european",
+        "tier": 8
+    },
+    "4881": {
+        "name": "Pz.Kpfw. III Ausf. A",
+        "nation": "germany",
+        "tier": 3
+    },
+    "4897": {
+        "name": "M2 Medium Tank",
+        "nation": "usa",
+        "tier": 3
+    },
+    "4929": {
+        "name": "AMX 13 90",
+        "nation": "france",
+        "tier": 8
+    },
+    "4945": {
+        "name": "Valentine Mk. IX",
+        "nation": "uk",
+        "tier": 4
+    },
+    "4961": {
+        "name": "Ho-Ri Type I",
+        "nation": "japan",
+        "tier": 8
+    },
+    "4977": {
+        "name": "Мародёр",
+        "nation": "other",
+        "tier": 5
+    },
+    "4993": {
+        "name": "P.43/06 anniversario",
+        "nation": "european",
+        "tier": 6
+    },
+    "5121": {
+        "name": "АТ-1",
+        "nation": "ussr",
+        "tier": 2
+    },
+    "5137": {
+        "name": "Tiger II",
+        "nation": "germany",
+        "tier": 8
+    },
+    "5153": {
+        "name": "M5 Stuart",
+        "nation": "usa",
+        "tier": 3
+    },
+    "5169": {
+        "name": "Type 58",
+        "nation": "china",
+        "tier": 6
+    },
+    "5185": {
+        "name": "AMX 13 75",
+        "nation": "france",
+        "tier": 7
+    },
+    "5201": {
+        "name": "Cruiser Mk. I",
+        "nation": "uk",
+        "tier": 2
+    },
+    "5217": {
+        "name": "Chi-To SPG",
+        "nation": "japan",
+        "tier": 7
+    },
+    "5233": {
+        "name": "Крушитель",
+        "nation": "other",
+        "tier": 7
+    },
+    "5249": {
+        "name": "Pudel",
+        "nation": "european",
+        "tier": 6
+    },
+    "5377": {
+        "name": "ИС-3",
+        "nation": "ussr",
+        "tier": 8
+    },
+    "5393": {
+        "name": "VK 16.02 Leopard",
+        "nation": "germany",
+        "tier": 5
+    },
+    "5409": {
+        "name": "M7",
+        "nation": "usa",
+        "tier": 4
+    },
+    "5425": {
+        "name": "WZ-113",
+        "nation": "china",
+        "tier": 10
+    },
+    "5441": {
+        "name": "AMX 30 1er prototype",
+        "nation": "france",
+        "tier": 9
+    },
+    "5457": {
+        "name": "Comet",
+        "nation": "uk",
+        "tier": 7
+    },
+    "5489": {
+        "name": "Y5 T-34",
+        "nation": "other",
+        "tier": 5
+    },
+    "5505": {
+        "name": "TVP T 50/51",
+        "nation": "european",
+        "tier": 10
+    },
+    "5665": {
+        "name": "T2 Medium Tank",
+        "nation": "usa",
+        "tier": 2
+    },
+    "5681": {
+        "name": "121B",
+        "nation": "china",
+        "tier": 10
+    },
+    "5713": {
+        "name": "Centurion Mk. 7/1",
+        "nation": "uk",
+        "tier": 9
+    },
+    "5745": {
+        "name": "Y5 Firefly",
+        "nation": "other",
+        "tier": 6
+    },
+    "5761": {
+        "name": "Škoda T 50",
+        "nation": "european",
+        "tier": 9
+    },
+    "5889": {
+        "name": "КВ-3",
+        "nation": "ussr",
+        "tier": 7
+    },
+    "5921": {
+        "name": "M26 Pershing",
+        "nation": "usa",
+        "tier": 8
+    },
+    "5937": {
+        "name": "59-Patton",
+        "nation": "china",
+        "tier": 8
+    },
+    "5953": {
+        "name": "AMX 38",
+        "nation": "france",
+        "tier": 2
+    },
+    "5969": {
+        "name": "Centurion Mk. I",
+        "nation": "uk",
+        "tier": 8
+    },
+    "6001": {
+        "name": "Y5 ELC bis",
+        "nation": "other",
+        "tier": 7
+    },
+    "6017": {
+        "name": "TVP VTU Koncept",
+        "nation": "european",
+        "tier": 8
+    },
+    "6145": {
+        "name": "ИС-4",
+        "nation": "ussr",
+        "tier": 10
+    },
+    "6161": {
+        "name": "Pz.Kpfw. II Luchs",
+        "nation": "germany",
+        "tier": 4
+    },
+    "6177": {
+        "name": "T18",
+        "nation": "usa",
+        "tier": 2
+    },
+    "6193": {
+        "name": "T-34-3",
+        "nation": "china",
+        "tier": 8
+    },
+    "6209": {
+        "name": "AMX 50 B",
+        "nation": "france",
+        "tier": 10
+    },
+    "6225": {
+        "name": "FV215b",
+        "nation": "uk",
+        "tier": 10
+    },
+    "6257": {
+        "name": "M4/FL10",
+        "nation": "other",
+        "tier": 7
+    },
+    "6273": {
+        "name": "Konštrukta T-34/100",
+        "nation": "european",
+        "tier": 7
+    },
+    "6401": {
+        "name": "СУ-76",
+        "nation": "ussr",
+        "tier": 3
+    },
+    "6417": {
+        "name": "Pz.Kpfw. III/IV",
+        "nation": "germany",
+        "tier": 5
+    },
+    "6433": {
+        "name": "T82",
+        "nation": "usa",
+        "tier": 3
+    },
+    "6449": {
+        "name": "WZ-113G FT",
+        "nation": "china",
+        "tier": 10
+    },
+    "6465": {
+        "name": "AMX 12 t",
+        "nation": "france",
+        "tier": 6
+    },
+    "6481": {
+        "name": "Covenanter",
+        "nation": "uk",
+        "tier": 4
+    },
+    "6529": {
+        "name": "Škoda T 25",
+        "nation": "european",
+        "tier": 6
+    },
+    "6657": {
+        "name": "Т-43",
+        "nation": "ussr",
+        "tier": 7
+    },
+    "6673": {
+        "name": "Marder II",
+        "nation": "germany",
+        "tier": 3
+    },
+    "6689": {
+        "name": "T49 ПТУР",
+        "nation": "usa",
+        "tier": 7
+    },
+    "6705": {
+        "name": "LT vz. 38",
+        "nation": "china",
+        "tier": 2
+    },
+    "6721": {
+        "name": "BDR G1 B",
+        "nation": "france",
+        "tier": 5
+    },
+    "6785": {
+        "name": "Škoda T 27",
+        "nation": "european",
+        "tier": 8
+    },
+    "6913": {
+        "name": "СУ-85Б",
+        "nation": "ussr",
+        "tier": 4
+    },
+    "6929": {
+        "name": "Maus",
+        "nation": "germany",
+        "tier": 10
+    },
+    "6945": {
+        "name": "M10 Wolverine",
+        "nation": "usa",
+        "tier": 5
+    },
+    "6961": {
+        "name": "WZ-120-1G FT",
+        "nation": "china",
+        "tier": 8
+    },
+    "6977": {
+        "name": "AMX M4 mle. 45",
+        "nation": "france",
+        "tier": 7
+    },
+    "6993": {
+        "name": "Cruiser Mk. II",
+        "nation": "uk",
+        "tier": 1
+    },
+    "7025": {
+        "name": "Vulcan",
+        "nation": "other",
+        "tier": 7
+    },
+    "7041": {
+        "name": "Turbo",
+        "nation": "european",
+        "tier": 6
+    },
+    "7169": {
+        "name": "ИС-7",
+        "nation": "ussr",
+        "tier": 10
+    },
+    "7185": {
+        "name": "VK 30.01 (P)",
+        "nation": "germany",
+        "tier": 6
+    },
+    "7201": {
+        "name": "M36 Jackson",
+        "nation": "usa",
+        "tier": 6
+    },
+    "7217": {
+        "name": "WZ-112-2",
+        "nation": "china",
+        "tier": 8
+    },
+    "7249": {
+        "name": "FV4202",
+        "nation": "uk",
+        "tier": 10
+    },
+    "7281": {
+        "name": "Ликан",
+        "nation": "other",
+        "tier": 7
+    },
+    "7425": {
+        "name": "ИСУ-152",
+        "nation": "ussr",
+        "tier": 8
+    },
+    "7441": {
+        "name": "VK 45.02 (P) Ausf. B",
+        "nation": "germany",
+        "tier": 9
+    },
+    "7473": {
+        "name": "T-34-2G FT",
+        "nation": "china",
+        "tier": 7
+    },
+    "7505": {
+        "name": "Cruiser Mk. IV",
+        "nation": "uk",
+        "tier": 3
+    },
+    "7537": {
+        "name": "Кошмар",
+        "nation": "other",
+        "tier": 5
+    },
+    "7697": {
+        "name": "Ferdinand",
+        "nation": "germany",
+        "tier": 8
+    },
+    "7713": {
+        "name": "T40",
+        "nation": "usa",
+        "tier": 4
+    },
+    "7729": {
+        "name": "WZ-131G FT",
+        "nation": "china",
+        "tier": 6
+    },
+    "7745": {
+        "name": "Renault FT AC",
+        "nation": "france",
+        "tier": 2
+    },
+    "7761": {
+        "name": "Cruiser Mk. III",
+        "nation": "uk",
+        "tier": 2
+    },
+    "7793": {
+        "name": "Уничтожитель",
+        "nation": "other",
+        "tier": 7
+    },
+    "7937": {
+        "name": "Т-54",
+        "nation": "ussr",
+        "tier": 9
+    },
+    "7953": {
+        "name": "Jagdtiger",
+        "nation": "germany",
+        "tier": 9
+    },
+    "7985": {
+        "name": "WZ-111-1G FT",
+        "nation": "china",
+        "tier": 8
+    },
+    "8001": {
+        "name": "Lorraine 40 t",
+        "nation": "france",
+        "tier": 8
+    },
+    "8017": {
+        "name": "Valentine AT",
+        "nation": "uk",
+        "tier": 3
+    },
+    "8049": {
+        "name": "Шип",
+        "nation": "other",
+        "tier": 5
+    },
+    "8193": {
+        "name": "Объект 704",
+        "nation": "ussr",
+        "tier": 9
+    },
+    "8209": {
+        "name": "Pz.Kpfw. 38 (t) n.A.",
+        "nation": "germany",
+        "tier": 4
+    },
+    "8225": {
+        "name": "T28",
+        "nation": "usa",
+        "tier": 8
+    },
+    "8241": {
+        "name": "WZ-111G FT",
+        "nation": "china",
+        "tier": 9
+    },
+    "8257": {
+        "name": "Renault UE 57",
+        "nation": "france",
+        "tier": 3
+    },
+    "8273": {
+        "name": "Universal Carrier 2-pdr",
+        "nation": "uk",
+        "tier": 2
+    },
+    "8465": {
+        "name": "Panther II",
+        "nation": "germany",
+        "tier": 8
+    },
+    "8497": {
+        "name": "WZ-111 model 5A",
+        "nation": "china",
+        "tier": 10
+    },
+    "8513": {
+        "name": "AMX 30 B",
+        "nation": "france",
+        "tier": 10
+    },
+    "8529": {
+        "name": "AT 15",
+        "nation": "uk",
+        "tier": 8
+    },
+    "8561": {
+        "name": "Titan T24 57",
+        "nation": "other",
+        "tier": 6
+    },
+    "8737": {
+        "name": "T95",
+        "nation": "usa",
+        "tier": 9
+    },
+    "8753": {
+        "name": "M41D",
+        "nation": "china",
+        "tier": 7
+    },
+    "8785": {
+        "name": "AT 2",
+        "nation": "uk",
+        "tier": 5
+    },
+    "8961": {
+        "name": "КВ-13",
+        "nation": "ussr",
+        "tier": 7
+    },
+    "8993": {
+        "name": "M46 Patton",
+        "nation": "usa",
+        "tier": 9
+    },
+    "9009": {
+        "name": "Бык",
+        "nation": "china",
+        "tier": 6
+    },
+    "9041": {
+        "name": "Alecto",
+        "nation": "uk",
+        "tier": 4
+    },
+    "9217": {
+        "name": "ИС-6",
+        "nation": "ussr",
+        "tier": 8
+    },
+    "9249": {
+        "name": "T25 AT",
+        "nation": "usa",
+        "tier": 7
+    },
+    "9297": {
+        "name": "FV215b (183)",
+        "nation": "uk",
+        "tier": 10
+    },
+    "9489": {
+        "name": "E 100",
+        "nation": "germany",
+        "tier": 10
+    },
+    "9505": {
+        "name": "M103",
+        "nation": "usa",
+        "tier": 9
+    },
+    "9553": {
+        "name": "AT 8",
+        "nation": "uk",
+        "tier": 6
+    },
+    "9745": {
+        "name": "E 75",
+        "nation": "germany",
+        "tier": 9
+    },
+    "9761": {
+        "name": "M24 Chaffee",
+        "nation": "usa",
+        "tier": 6
+    },
+    "9793": {
+        "name": "Somua SAu 40",
+        "nation": "france",
+        "tier": 4
+    },
+    "9809": {
+        "name": "Churchill Gun Carrier",
+        "nation": "uk",
+        "tier": 6
+    },
+    "9985": {
+        "name": "СУ-101",
+        "nation": "ussr",
+        "tier": 8
+    },
+    "10001": {
+        "name": "VK 28.01",
+        "nation": "germany",
+        "tier": 6
+    },
+    "10017": {
+        "name": "M4A3E2 Sherman Jumbo",
+        "nation": "usa",
+        "tier": 6
+    },
+    "10049": {
+        "name": "S35 CA",
+        "nation": "france",
+        "tier": 5
+    },
+    "10065": {
+        "name": "AT 7",
+        "nation": "uk",
+        "tier": 7
+    },
+    "10241": {
+        "name": "СУ-100М1",
+        "nation": "ussr",
+        "tier": 7
+    },
+    "10257": {
+        "name": "E 50",
+        "nation": "germany",
+        "tier": 9
+    },
+    "10273": {
+        "name": "M8A1",
+        "nation": "usa",
+        "tier": 4
+    },
+    "10497": {
+        "name": "КВ-2",
+        "nation": "ussr",
+        "tier": 6
+    },
+    "10513": {
+        "name": "VK 45.02 (P) Ausf. A",
+        "nation": "germany",
+        "tier": 8
+    },
+    "10529": {
+        "name": "T67",
+        "nation": "usa",
+        "tier": 5
+    },
+    "10753": {
+        "name": "СТ-I",
+        "nation": "ussr",
+        "tier": 9
+    },
+    "10769": {
+        "name": "Tiger (P)",
+        "nation": "germany",
+        "tier": 7
+    },
+    "10785": {
+        "name": "T110E5",
+        "nation": "usa",
+        "tier": 10
+    },
+    "10817": {
+        "name": "AMX AC mle. 46",
+        "nation": "france",
+        "tier": 7
+    },
+    "11009": {
+        "name": "КВ-4",
+        "nation": "ussr",
+        "tier": 8
+    },
+    "11025": {
+        "name": "Sturer Emil",
+        "nation": "germany",
+        "tier": 7
+    },
+    "11041": {
+        "name": "T25/2",
+        "nation": "usa",
+        "tier": 7
+    },
+    "11073": {
+        "name": "AMX 50 Foch",
+        "nation": "france",
+        "tier": 9
+    },
+    "11265": {
+        "name": "Т-150",
+        "nation": "ussr",
+        "tier": 6
+    },
+    "11281": {
+        "name": "KpfPz 70",
+        "nation": "germany",
+        "tier": 9
+    },
+    "11297": {
+        "name": "T28 Prototype",
+        "nation": "usa",
+        "tier": 8
+    },
+    "11521": {
+        "name": "ИС-8",
+        "nation": "ussr",
+        "tier": 9
+    },
+    "11537": {
+        "name": "Jagdpanther II",
+        "nation": "germany",
+        "tier": 8
+    },
+    "11553": {
+        "name": "M18 Hellcat",
+        "nation": "usa",
+        "tier": 6
+    },
+    "11585": {
+        "name": "ARL V39",
+        "nation": "france",
+        "tier": 6
+    },
+    "11777": {
+        "name": "КВ-1",
+        "nation": "ussr",
+        "tier": 5
+    },
+    "11793": {
+        "name": "Nashorn",
+        "nation": "germany",
+        "tier": 6
+    },
+    "11809": {
+        "name": "T23E3",
+        "nation": "usa",
+        "tier": 7
+    },
+    "12033": {
+        "name": "СУ-122-54",
+        "nation": "ussr",
+        "tier": 9
+    },
+    "12049": {
+        "name": "Jagdpanzer E 100",
+        "nation": "germany",
+        "tier": 10
+    },
+    "12065": {
+        "name": "T95E2",
+        "nation": "usa",
+        "tier": 8
+    },
+    "12097": {
+        "name": "AMX AC mle. 48",
+        "nation": "france",
+        "tier": 8
+    },
+    "12305": {
+        "name": "E 50 Ausf. M",
+        "nation": "germany",
+        "tier": 10
+    },
+    "12321": {
+        "name": "T6E1 Grizzly",
+        "nation": "usa",
+        "tier": 4
+    },
+    "12545": {
+        "name": "К-91",
+        "nation": "ussr",
+        "tier": 9
+    },
+    "13073": {
+        "name": "Pz.Kpfw. II Ausf. G",
+        "nation": "germany",
+        "tier": 3
+    },
+    "13089": {
+        "name": "T110E4",
+        "nation": "usa",
+        "tier": 10
+    },
+    "13329": {
+        "name": "Durchbruchswagen 2",
+        "nation": "germany",
+        "tier": 4
+    },
+    "13345": {
+        "name": "T26E4 SuperPershing",
+        "nation": "usa",
+        "tier": 8
+    },
+    "13569": {
+        "name": "Объект 268",
+        "nation": "ussr",
+        "tier": 10
+    },
+    "13825": {
+        "name": "Т-62А",
+        "nation": "ussr",
+        "tier": 10
+    },
+    "13841": {
+        "name": "Indien-Panzer",
+        "nation": "germany",
+        "tier": 8
+    },
+    "13857": {
+        "name": "T110E3",
+        "nation": "usa",
+        "tier": 10
+    },
+    "13889": {
+        "name": "AMX 50 Foch (155)",
+        "nation": "france",
+        "tier": 10
+    },
+    "14097": {
+        "name": "VK 30.01 (D)",
+        "nation": "germany",
+        "tier": 6
+    },
+    "14113": {
+        "name": "M48 Patton",
+        "nation": "usa",
+        "tier": 10
+    },
+    "14145": {
+        "name": "AMX ELC bis",
+        "nation": "france",
+        "tier": 5
+    },
+    "14337": {
+        "name": "Объект 263",
+        "nation": "ussr",
+        "tier": 10
+    },
+    "14609": {
+        "name": "Leopard 1",
+        "nation": "germany",
+        "tier": 10
+    },
+    "14625": {
+        "name": "T69",
+        "nation": "usa",
+        "tier": 8
+    },
+    "14865": {
+        "name": "Leopard Prototyp A",
+        "nation": "germany",
+        "tier": 9
+    },
+    "14881": {
+        "name": "T57 Heavy Tank",
+        "nation": "usa",
+        "tier": 10
+    },
+    "15137": {
+        "name": "T21",
+        "nation": "usa",
+        "tier": 6
+    },
+    "15393": {
+        "name": "T54E1",
+        "nation": "usa",
+        "tier": 9
+    },
+    "15441": {
+        "name": "Chieftain/T95",
+        "nation": "uk",
+        "tier": 8
+    },
+    "15649": {
+        "name": "T71",
+        "nation": "usa",
+        "tier": 7
+    },
+    "15697": {
+        "name": "Chieftain Mk.6",
+        "nation": "uk",
+        "tier": 10
+    },
+    "15889": {
+        "name": "VK 30.02 (M)",
+        "nation": "germany",
+        "tier": 6
+    },
+    "15905": {
+        "name": "M60",
+        "nation": "usa",
+        "tier": 10
+    },
+    "15937": {
+        "name": "Renault R35",
+        "nation": "france",
+        "tier": 1
+    },
+    "15953": {
+        "name": "FV201 (A45)",
+        "nation": "uk",
+        "tier": 7
+    },
+    "16145": {
+        "name": "Pz.Sfl. IVc",
+        "nation": "germany",
+        "tier": 5
+    },
+    "16193": {
+        "name": "M4A1 Revalorisé",
+        "nation": "france",
+        "tier": 8
+    },
+    "16401": {
+        "name": "Waffenträger auf Pz. IV",
+        "nation": "germany",
+        "tier": 9
+    },
+    "16449": {
+        "name": "AMX 13 57",
+        "nation": "france",
+        "tier": 7
+    },
+    "16641": {
+        "name": "МТ-25",
+        "nation": "ussr",
+        "tier": 6
+    },
+    "16657": {
+        "name": "Rhm.-Borsig Waffenträger",
+        "nation": "germany",
+        "tier": 8
+    },
+    "16673": {
+        "name": "T37",
+        "nation": "usa",
+        "tier": 6
+    },
+    "16705": {
+        "name": "AMX M4 mle. 49",
+        "nation": "france",
+        "tier": 8
+    },
+    "16897": {
+        "name": "Объект 140",
+        "nation": "ussr",
+        "tier": 10
+    },
+    "17169": {
+        "name": "Pz.Kpfw. IV Ausf. A",
+        "nation": "germany",
+        "tier": 3
+    },
+    "17217": {
+        "name": "Стиратель BP44",
+        "nation": "france",
+        "tier": 6
+    },
+    "17233": {
+        "name": "FV4004 Conway",
+        "nation": "uk",
+        "tier": 9
+    },
+    "17425": {
+        "name": "Pz.Kpfw. IV Ausf. D",
+        "nation": "germany",
+        "tier": 4
+    },
+    "17473": {
+        "name": "AMX Defender",
+        "nation": "france",
+        "tier": 8
+    },
+    "17489": {
+        "name": "Charioteer",
+        "nation": "uk",
+        "tier": 8
+    },
+    "17729": {
+        "name": "Somua SM",
+        "nation": "france",
+        "tier": 8
+    },
+    "17745": {
+        "name": "FV217 Badger",
+        "nation": "uk",
+        "tier": 10
+    },
+    "17953": {
+        "name": "M41 Walker Bulldog",
+        "nation": "usa",
+        "tier": 7
+    },
+    "17985": {
+        "name": "Bretagne Panther",
+        "nation": "france",
+        "tier": 6
+    },
+    "18001": {
+        "name": "FV4005",
+        "nation": "uk",
+        "tier": 10
+    },
+    "18177": {
+        "name": "Т-54 облегчённый",
+        "nation": "ussr",
+        "tier": 8
+    },
+    "18209": {
+        "name": "T49",
+        "nation": "usa",
+        "tier": 8
+    },
+    "18257": {
+        "name": "Challenger",
+        "nation": "uk",
+        "tier": 7
+    },
+    "18433": {
+        "name": "ЛТТБ",
+        "nation": "ussr",
+        "tier": 7
+    },
+    "18449": {
+        "name": "Spähpanzer Ru 251",
+        "nation": "germany",
+        "tier": 8
+    },
+    "18497": {
+        "name": "Lorraine 40 t Бесстрашный",
+        "nation": "france",
+        "tier": 8
+    },
+    "18513": {
+        "name": "Chimera",
+        "nation": "uk",
+        "tier": 8
+    },
+    "18689": {
+        "name": "Т-70/57",
+        "nation": "ussr",
+        "tier": 3
+    },
+    "18769": {
+        "name": "Caernarvon Action X",
+        "nation": "uk",
+        "tier": 8
+    },
+    "18945": {
+        "name": "ИСУ-130",
+        "nation": "ussr",
+        "tier": 8
+    },
+    "18961": {
+        "name": "Spähpanzer SP I C",
+        "nation": "germany",
+        "tier": 7
+    },
+    "18977": {
+        "name": "T95E6",
+        "nation": "usa",
+        "tier": 10
+    },
+    "19025": {
+        "name": "Defender Mk. 1",
+        "nation": "uk",
+        "tier": 8
+    },
+    "19217": {
+        "name": "Grille 15",
+        "nation": "germany",
+        "tier": 10
+    },
+    "19233": {
+        "name": "Chrysler K",
+        "nation": "usa",
+        "tier": 8
+    },
+    "19281": {
+        "name": "Super Conqueror",
+        "nation": "uk",
+        "tier": 10
+    },
+    "19473": {
+        "name": "Krupp-38(D)",
+        "nation": "germany",
+        "tier": 5
+    },
+    "19489": {
+        "name": "T28 Defender",
+        "nation": "usa",
+        "tier": 8
+    },
+    "19537": {
+        "name": "Vickers Light 105",
+        "nation": "uk",
+        "tier": 10
+    },
+    "19713": {
+        "name": "М4-А2 Шерман Лозы",
+        "nation": "ussr",
+        "tier": 6
+    },
+    "19729": {
+        "name": "Tiger 131",
+        "nation": "germany",
+        "tier": 6
+    },
+    "19745": {
+        "name": "T26E5",
+        "nation": "usa",
+        "tier": 8
+    },
+    "19793": {
+        "name": "Vickers Cruiser",
+        "nation": "uk",
+        "tier": 9
+    },
+    "19969": {
+        "name": "Т-22 ср.",
+        "nation": "ussr",
+        "tier": 10
+    },
+    "19985": {
+        "name": "Rheinmetall Skorpion G",
+        "nation": "germany",
+        "tier": 8
+    },
+    "20001": {
+        "name": "T92E1",
+        "nation": "usa",
+        "tier": 9
+    },
+    "20049": {
+        "name": "FV301",
+        "nation": "uk",
+        "tier": 8
+    },
+    "20257": {
+        "name": "XM551 Sheridan",
+        "nation": "usa",
+        "tier": 10
+    },
+    "20305": {
+        "name": "Centurion Mk. 5/1 RAAC",
+        "nation": "uk",
+        "tier": 8
+    },
+    "20481": {
+        "name": "Объект 252У",
+        "nation": "ussr",
+        "tier": 8
+    },
+    "20497": {
+        "name": "VK 100.01 (P)",
+        "nation": "germany",
+        "tier": 8
+    },
+    "20513": {
+        "name": "T54E2",
+        "nation": "usa",
+        "tier": 8
+    },
+    "20561": {
+        "name": "Turtle Mk. I",
+        "nation": "uk",
+        "tier": 8
+    },
+    "20737": {
+        "name": "СУ-130ПМ",
+        "nation": "ussr",
+        "tier": 8
+    },
+    "20753": {
+        "name": "Mäuschen",
+        "nation": "germany",
+        "tier": 9
+    },
+    "20769": {
+        "name": "T25 Pilot Number 1",
+        "nation": "usa",
+        "tier": 8
+    },
+    "20993": {
+        "name": "Т-2020",
+        "nation": "ussr",
+        "tier": 8
+    },
+    "21009": {
+        "name": "Panzer 58",
+        "nation": "germany",
+        "tier": 8
+    },
+    "21025": {
+        "name": "T26E3 Eagle 7",
+        "nation": "usa",
+        "tier": 7
+    },
+    "21073": {
+        "name": "Дредноут",
+        "nation": "uk",
+        "tier": 6
+    },
+    "21249": {
+        "name": "Гром",
+        "nation": "ussr",
+        "tier": 6
+    },
+    "21265": {
+        "name": "VK 168.01 (P)",
+        "nation": "germany",
+        "tier": 8
+    },
+    "21281": {
+        "name": "Рудольф",
+        "nation": "usa",
+        "tier": 6
+    },
+    "21505": {
+        "name": "Т-44-85",
+        "nation": "ussr",
+        "tier": 7
+    },
+    "21521": {
+        "name": "E 75 TS",
+        "nation": "germany",
+        "tier": 8
+    },
+    "21761": {
+        "name": "СТГ",
+        "nation": "ussr",
+        "tier": 8
+    },
+    "21777": {
+        "name": "VK 90.01 (P)",
+        "nation": "germany",
+        "tier": 10
+    },
+    "21793": {
+        "name": "XM551 Sheridan Ракетный",
+        "nation": "usa",
+        "tier": 10
+    },
+    "22033": {
+        "name": "Диверсант",
+        "nation": "germany",
+        "tier": 6
+    },
+    "22049": {
+        "name": "Magnus",
+        "nation": "usa",
+        "tier": 6
+    },
+    "22273": {
+        "name": "Объект 260",
+        "nation": "ussr",
+        "tier": 10
+    },
+    "22545": {
+        "name": "Kanonenjagdpanzer 105",
+        "nation": "germany",
+        "tier": 8
+    },
+    "22561": {
+        "name": "TS-5",
+        "nation": "usa",
+        "tier": 8
+    },
+    "22785": {
+        "name": "Триумфатор",
+        "nation": "ussr",
+        "tier": 6
+    },
+    "22801": {
+        "name": "Ледокол",
+        "nation": "germany",
+        "tier": 6
+    },
+    "22817": {
+        "name": "M-VI-Yoh",
+        "nation": "usa",
+        "tier": 10
+    },
+    "23073": {
+        "name": "M-V-Yoh",
+        "nation": "usa",
+        "tier": 9
+    },
+    "23329": {
+        "name": "M-III-Yoh",
+        "nation": "usa",
+        "tier": 8
+    },
+    "23553": {
+        "name": "МС-1",
+        "nation": "ussr",
+        "tier": 2
+    },
+    "23569": {
+        "name": "Pz. IV Гаргулья",
+        "nation": "germany",
+        "tier": 5
+    },
+    "23585": {
+        "name": "M-VII-Yoh",
+        "nation": "usa",
+        "tier": 7
+    },
+    "24097": {
+        "name": "BLTZ9000",
+        "nation": "usa",
+        "tier": 6
+    },
+    "51201": {
+        "name": "КВ-220 Бета-Тест",
+        "nation": "ussr",
+        "tier": 5
+    },
+    "51457": {
+        "name": "Матильда IV",
+        "nation": "ussr",
+        "tier": 5
+    },
+    "51473": {
+        "name": "Pz.Kpfw. V/IV",
+        "nation": "germany",
+        "tier": 5
+    },
+    "51489": {
+        "name": "T2 Light Tank",
+        "nation": "usa",
+        "tier": 2
+    },
+    "51713": {
+        "name": "Черчилль III",
+        "nation": "ussr",
+        "tier": 5
+    },
+    "51729": {
+        "name": "Pz.Kpfw. II Ausf. J",
+        "nation": "germany",
+        "tier": 3
+    },
+    "51745": {
+        "name": "Ram II",
+        "nation": "usa",
+        "tier": 5
+    },
+    "51809": {
+        "name": "Type 98 Ke-Ni Otsu",
+        "nation": "japan",
+        "tier": 3
+    },
+    "51985": {
+        "name": "Pz.Kpfw. S35 739 (f)",
+        "nation": "germany",
+        "tier": 3
+    },
+    "52065": {
+        "name": "Hetzer Kame SP",
+        "nation": "japan",
+        "tier": 4
+    },
+    "52225": {
+        "name": "БТ-СВ",
+        "nation": "ussr",
+        "tier": 3
+    },
+    "52241": {
+        "name": "Pz.Kpfw. B2 740 (f)",
+        "nation": "germany",
+        "tier": 4
+    },
+    "52257": {
+        "name": "M4A2E4 Sherman",
+        "nation": "usa",
+        "tier": 5
+    },
+    "52481": {
+        "name": "Валентайн II",
+        "nation": "ussr",
+        "tier": 4
+    },
+    "52497": {
+        "name": "Pz.Kpfw. 38H 735 (f)",
+        "nation": "germany",
+        "tier": 2
+    },
+    "52513": {
+        "name": "M6A2E1",
+        "nation": "usa",
+        "tier": 7
+    },
+    "52561": {
+        "name": "Tortoise",
+        "nation": "uk",
+        "tier": 9
+    },
+    "52737": {
+        "name": "М3 лёгкий",
+        "nation": "ussr",
+        "tier": 3
+    },
+    "52769": {
+        "name": "M22 Locust",
+        "nation": "usa",
+        "tier": 3
+    },
+    "52993": {
+        "name": "А-32",
+        "nation": "ussr",
+        "tier": 4
+    },
+    "53025": {
+        "name": "M6A2E1 EXP",
+        "nation": "usa",
+        "tier": 8
+    },
+    "53249": {
+        "name": "КВ-5",
+        "nation": "ussr",
+        "tier": 8
+    },
+    "53505": {
+        "name": "Т-127",
+        "nation": "ussr",
+        "tier": 3
+    },
+    "53537": {
+        "name": "T1E6",
+        "nation": "usa",
+        "tier": 2
+    },
+    "53585": {
+        "name": "Matilda Black Prince",
+        "nation": "uk",
+        "tier": 5
+    },
+    "53761": {
+        "name": "СУ-85И",
+        "nation": "ussr",
+        "tier": 5
+    },
+    "53841": {
+        "name": "TOG II*",
+        "nation": "uk",
+        "tier": 6
+    },
+    "54097": {
+        "name": "AT 15A",
+        "nation": "uk",
+        "tier": 7
+    },
+    "54273": {
+        "name": "СУ-76И",
+        "nation": "ussr",
+        "tier": 3
+    },
+    "54289": {
+        "name": "Löwe",
+        "nation": "germany",
+        "tier": 8
+    },
+    "54353": {
+        "name": "Excelsior",
+        "nation": "uk",
+        "tier": 5
+    },
+    "54529": {
+        "name": "Тетрарх",
+        "nation": "ussr",
+        "tier": 2
+    },
+    "54545": {
+        "name": "T-25",
+        "nation": "germany",
+        "tier": 5
+    },
+    "54785": {
+        "name": "СУ-100Y",
+        "nation": "ussr",
+        "tier": 6
+    },
+    "54801": {
+        "name": "T-15",
+        "nation": "germany",
+        "tier": 3
+    },
+    "54865": {
+        "name": "Light Mk. VIC",
+        "nation": "uk",
+        "tier": 2
+    },
+    "55057": {
+        "name": "Pz.Kpfw. IV hydrostat.",
+        "nation": "germany",
+        "tier": 5
+    },
+    "55073": {
+        "name": "T7 Combat Car",
+        "nation": "usa",
+        "tier": 2
+    },
+    "55297": {
+        "name": "СУ-122-44",
+        "nation": "ussr",
+        "tier": 7
+    },
+    "55313": {
+        "name": "8,8 cm Pak 43 Jagdtiger",
+        "nation": "germany",
+        "tier": 8
+    },
+    "55889": {
+        "name": "Cromwell B",
+        "nation": "uk",
+        "tier": 6
+    },
+    "56097": {
+        "name": "M4A3E8 Fury",
+        "nation": "usa",
+        "tier": 6
+    },
+    "56577": {
+        "name": "ЛТП",
+        "nation": "ussr",
+        "tier": 3
+    },
+    "56609": {
+        "name": "T28 Concept",
+        "nation": "usa",
+        "tier": 7
+    },
+    "57105": {
+        "name": "Dicker Max",
+        "nation": "germany",
+        "tier": 6
+    },
+    "57361": {
+        "name": "Pz.Kpfw. IV Schmalturm",
+        "nation": "germany",
+        "tier": 6
+    },
+    "57617": {
+        "name": "Panther/M10",
+        "nation": "germany",
+        "tier": 7
+    },
+    "58641": {
+        "name": "VK 72.01 (K)",
+        "nation": "germany",
+        "tier": 10
+    },
+    "58881": {
+        "name": "ИС-5 (Объект 730)",
+        "nation": "ussr",
+        "tier": 8
+    },
+    "59137": {
+        "name": "ИС-2 (1945)",
+        "nation": "ussr",
+        "tier": 7
+    },
+    "59649": {
+        "name": "ИСУ-122С",
+        "nation": "ussr",
+        "tier": 7
+    },
+    "59665": {
+        "name": "Großtraktor - Krupp",
+        "nation": "germany",
+        "tier": 3
+    },
+    "59905": {
+        "name": "Т-54 первый образец",
+        "nation": "ussr",
+        "tier": 8
+    },
+    "60161": {
+        "name": "ИС-2Ш",
+        "nation": "ussr",
+        "tier": 8
+    },
+    "60177": {
+        "name": "Panther mit 8,8 cm L/71",
+        "nation": "germany",
+        "tier": 8
+    },
+    "60417": {
+        "name": "ИС-3 Защитник",
+        "nation": "ussr",
+        "tier": 8
+    },
+    "60929": {
+        "name": "БТ-7 артиллерийский",
+        "nation": "ussr",
+        "tier": 3
+    },
+    "62737": {
+        "name": "leKpz M 41 90 mm",
+        "nation": "germany",
+        "tier": 8
+    },
+    "62977": {
+        "name": "T-44-100",
+        "nation": "ussr",
+        "tier": 8
+    },
+    "62993": {
+        "name": "VK 45.03",
+        "nation": "germany",
+        "tier": 7
+    },
+    "63553": {
+        "name": "AMX Chasseur de chars",
+        "nation": "france",
+        "tier": 8
+    },
+    "63585": {
+        "name": "Tiger Kuromorimine SP",
+        "nation": "japan",
+        "tier": 6
+    },
+    "63601": {
+        "name": "Дракула",
+        "nation": "other",
+        "tier": 7
+    },
+    "63841": {
+        "name": "Panzer IV Ankou Special",
+        "nation": "japan",
+        "tier": 5
+    },
+    "64001": {
+        "name": "T-34-85 Rudy",
+        "nation": "ussr",
+        "tier": 7
+    },
+    "64017": {
+        "name": "Франкенштанк",
+        "nation": "germany",
+        "tier": 7
+    },
+    "64065": {
+        "name": "FCM 50 t",
+        "nation": "france",
+        "tier": 8
+    },
+    "64257": {
+        "name": "T-34-85 Победный",
+        "nation": "ussr",
+        "tier": 6
+    },
+    "64273": {
+        "name": "Новогодний Jagdtiger 8.8",
+        "nation": "germany",
+        "tier": 8
+    },
+    "64337": {
+        "name": "AC IV Sentinel",
+        "nation": "uk",
+        "tier": 6
+    },
+    "64529": {
+        "name": "E 25",
+        "nation": "germany",
+        "tier": 7
+    },
+    "64561": {
+        "name": "112 Ледяной",
+        "nation": "china",
+        "tier": 8
+    },
+    "64593": {
+        "name": "Коннор Гневный",
+        "nation": "uk",
+        "tier": 5
+    },
+    "64769": {
+        "name": "ИС-6 Бесстрашный",
+        "nation": "ussr",
+        "tier": 8
+    },
+    "64801": {
+        "name": "T34 Independence",
+        "nation": "usa",
+        "tier": 8
+    },
+    "64849": {
+        "name": "AC 1 Sentinel",
+        "nation": "uk",
+        "tier": 4
+    },
+    "65329": {
+        "name": "Type 62",
+        "nation": "china",
+        "tier": 7
+    },
+    "65377": {
+        "name": "Type 3 Chi-Nu Kai",
+        "nation": "japan",
+        "tier": 5
+    }
+}

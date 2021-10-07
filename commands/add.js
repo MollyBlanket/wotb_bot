@@ -1,9 +1,7 @@
 const users = require('../jsons/users.json');
 const fs = require('fs');
-const urls = require('../jsons/config.json');
 const { WotBAPI } = require('../api/api');
-const errors = require('../jsons/errorsMessages.json');
-let WotBlitzAPI = new WotBAPI(urls, errors);
+let WotBlitzAPI = new WotBAPI();
 const userStatistic = require('./playerInfo');
 
 module.exports.run = async (bot, message, args) => {

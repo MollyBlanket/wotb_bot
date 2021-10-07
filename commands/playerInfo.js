@@ -1,8 +1,6 @@
 const { MessageEmbed } = require('discord.js');
-const urls = require('../jsons/config.json');
-const errors = require('../jsons/errorsMessages.json');
 const { WotBAPI } = require('../api/api');
-let WotBlitzAPI = new WotBAPI(urls, errors);
+let WotBlitzAPI = new WotBAPI();
 const users = require('../jsons/users.json');
 
 module.exports.run = async (bot, message, args) => {
