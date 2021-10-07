@@ -1,9 +1,9 @@
 const { MessageEmbed } = require('discord.js');
-const urls = require('../config.json');
-const errors = require('../errorsMessages.json');
+const urls = require('../jsons/config.json');
+const errors = require('../jsons/errorsMessages.json');
 const { WotBAPI } = require('../api');
 let WotBlitzAPI = new WotBAPI(urls, errors);
-const users = require('./users.json');
+const users = require('../jsons/users.json');
 
 module.exports.run = async (bot, message, args) => {
     try {
@@ -37,9 +37,9 @@ module.exports.run = async (bot, message, args) => {
             )
             .setThumbnail(message.author.avatarURL());
 
-        message.channel.send(embed);
+        message.channel.send({ embeds: [embed] });
     } catch (e) {
-        WotBlitzAPI.errorResponse(e, message);
+        message.channel.send(await WotBlitzAPI.errorResponse(e));
     }
 };
 

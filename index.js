@@ -1,7 +1,13 @@
 require('dotenv').config();
 const Discord = require('discord.js');
 const fs = require('fs');
-const bot = new Discord.Client();
+const bot = new Discord.Client({
+    intents: [
+        Discord.Intents.FLAGS.GUILD_MESSAGES,
+        Discord.Intents.FLAGS.GUILDS,
+        Discord.Intents.FLAGS.GUILD_MEMBERS,
+    ],
+});
 bot.commands = new Discord.Collection();
 bot.aliases = new Discord.Collection();
 
@@ -21,6 +27,10 @@ fs.readdir('./commands', (err, files) => {
             bot.aliases.set(alias, props.help.name);
         });
     });
+});
+
+bot.on('ready', () => {
+    console.log(`Logged in as ${bot.user.tag}!`);
 });
 
 bot.on('message', async (message) => {
