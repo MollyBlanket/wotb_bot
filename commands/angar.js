@@ -1,7 +1,7 @@
 const { MessageActionRow, MessageButton, MessageEmbed } = require('discord.js');
 const urls = require('../jsons/config.json');
 const errors = require('../jsons/errorsMessages.json');
-const { WotBAPI } = require('../api');
+const { WotBAPI } = require('../api/api');
 let WotBlitzAPI = new WotBAPI(urls, errors);
 const users = require('../jsons/users.json');
 
