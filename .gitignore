@@ -1,4 +1,4 @@
 /node_modules
 .env
-/commands/users.json
+/jsons/users.json
 /test.js
