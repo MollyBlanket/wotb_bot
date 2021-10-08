@@ -4,8 +4,8 @@
     "description": "",
     "main": "index.js",
     "scripts": {
-        "start": "ts-node index.js --resolveJsonModule",
-        "test": "ts-node-dev ./test.js --resolveJsonModule"
+        "start": "ts-node index.js",
+        "test": "typescript ./api/api.ts"
     },
     "keywords": [],
     "author": "",
