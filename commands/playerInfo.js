@@ -1,5 +1,5 @@
 const { MessageEmbed } = require('discord.js');
-const { WotBAPI } = require('../api/api');
+const { WotBAPI } = require('../api/api.ts');
 let WotBlitzAPI = new WotBAPI();
 const users = require('../jsons/users.json');
 

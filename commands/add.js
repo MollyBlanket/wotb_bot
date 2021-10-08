@@ -1,6 +1,6 @@
 const users = require('../jsons/users.json');
 const fs = require('fs');
-const { WotBAPI } = require('../api/api');
+const { WotBAPI } = require('../api/api.ts');
 let WotBlitzAPI = new WotBAPI();
 const userStatistic = require('./playerInfo');
 
