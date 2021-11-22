@@ -62,6 +62,11 @@ bot.on('message', async (message) => {
     }
 });
 
+bot.on('guildMemberAdd', (member) => {
+    let role = member.guild.roles.cache.find((r) => r.name === 'guest');
+    member.roles.add(role).catch(console.log('Не удалось выдать роль'));
+});
+
 // (async () => {
 //     try {
 //         let res = await WotBlitzAPI.getUserIdByName('te xt');
